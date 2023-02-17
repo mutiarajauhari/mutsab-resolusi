@@ -2,3 +2,4 @@ mutsab resolusi
 - Mengerti Flutter
 - Bisa buat project sendiri
 - Hasilin banyak uang
+- bisa desain frontend sendiri
